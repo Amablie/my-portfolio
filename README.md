@@ -1,1 +1,1 @@
-![Link portfolio] (https://amabile-galdino.netlify.app/)
+Link portfolio: https://amabile-galdino.netlify.app/
