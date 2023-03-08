@@ -232,20 +232,20 @@ sections:
       text: |-
         Contact me.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: amabilegaldin11@gmail.com
+      phone: +55 (41) 991752952
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
