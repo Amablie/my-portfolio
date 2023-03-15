@@ -48,7 +48,7 @@ sections:
     content:
       title: Experience
       items:
-      - title: Data Analytics
+      - title: Data Analytics - Intern
         company: Solvay
         company_url: https://www.solvay.com/en/
         company_logo: null
@@ -63,7 +63,7 @@ sections:
           through extensive databases, for manipulation and treatment in order to assist
           in decision making;\n  - Search for new data-driven solutions and improvements
           for the Credit team.\n  "
-      - title: Business Intelligence
+      - title: Business Intelligence - Intern
         company: Mirum Agency
         company_url: https://www.mirumagency.com.br/
         company_logo: null
@@ -77,7 +77,7 @@ sections:
           update and manipulation using Excel, Google Sheets, and BigQuery queries\n
           \ - Preparation of reports and presentations using PowerPoint and DataStudio.\n
           \ "
-      - title: Credit Modeling (intern)
+      - title: Credit Modeling - Intern
         company: Bradesco
         company_url: https://banco.bradesco/html/classic/index.shtm
         company_logo: null
