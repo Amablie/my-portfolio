@@ -1,12 +1,16 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Dashboard- Venda de Jogos
+summary: Link to the dashboard about videogame sales [`external_link`](https://lookerstudio.google.com/s/p_yc-CiLU40).
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Dash
+date: "2020-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://lookerstudio.google.com/s/p_yc-CiLU40
 
-
+image:
+  caption: Photo by print
+  focal_point: Smart
 ---
+
+Dashboard with charts about videogame sales.

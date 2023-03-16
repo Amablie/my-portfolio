@@ -96,13 +96,13 @@ sections:
       subtitle: null
       date_format: Jan 2006
       items:
-      - certificate_url: https://www.datacamp.com
+      - certificate_url: https://www.datascienceacademy.com.br/start
         date_end: ''
-        date_start: "2022-12-25"
+        date_start: "2023-03-15"
         description: ''
-        organization: DataCamp
-        organization_url: https://www.datacamp.com
-        title: Manipulating Time Series Data in R
+        organization: DSA
+        organization_url: https://www.datascienceacademy.com.br/start
+        title: Fundamentos de Linguagem Python Para Análise de Dados e Data Science
         url: ''
       - certificate_url: https://www.datacamp.com
         date_end: "2020-12-21"
@@ -119,6 +119,22 @@ sections:
         organization: DataCamp
         organization_url: https://www.datacamp.com
         title: Intermediate SQL Queries
+        url: ''
+      - certificate_url: https://www.datascienceacademy.com.br/start
+        date_end: "2019-12-21"
+        date_start: "2019-07-01"
+        description: ''
+        organization: DSA
+        organization_url: https://www.datascienceacademy.com.br/start
+        title: Introdução à Ciência de Dados 2.0
+        url: ''
+      - certificate_url: https://www.datascienceacademy.com.br/start
+        date_end: "2019-12-21"
+        date_start: "2019-07-01"
+        description: ''
+        organization: DSA
+        organization_url: https://www.datascienceacademy.com.br/start
+        title: Big Data Fundamentos 2.0
         url: ''
     design:
       columns: '2'
@@ -166,10 +182,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Data Science
+          tag: DS
+        - name: Dashboard
+          tag: Dash
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
