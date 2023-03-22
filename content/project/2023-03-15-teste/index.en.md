@@ -2,7 +2,7 @@
 title: Análise de Dados do Oscar
 summary: Projeto sobre análise de dados de filmes indicados ao Oscar [`external_link`](https://colab.research.google.com/github/Amablie/LoftSchool/blob/main/Projetofinal.ipynb) .
 tags:
-  - DS
+  - DataScience
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

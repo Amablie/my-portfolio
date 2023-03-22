@@ -183,9 +183,9 @@ sections:
         - name: All
           tag: '*'
         - name: Data Science
-          tag: DS
+          tag: DataScience
         - name: Dashboard
-          tag: Dash
+          tag: Dashboard
         - name: Other
           tag: Other
     design:
