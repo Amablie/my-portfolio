@@ -69,8 +69,10 @@ email: 'amabilegaldin11@gmail.com'
 highlight_name: true
 ---
 
-I am a Statistician student at the Federal University of Paraná, actively participating as a scholarship holder,in a nacional program developing teaching, research, and extension activities since the second year of graduation. In my free time I'm looking to get to know the day-to-day of a data professional in the job market.
-Currently I'm working as a data intern in the credit area of one of the largest chemical companies in Belgium, helping a global team with process automation, analysis, and collecting information for business decisions.
+Hi! I am a Statistics student and a Financial Assistant.
+
+I currently work in the Credit area of a leading global company in materials, chemicals, and solutions. Cross-supporting a global credit management team and being a technical point of contact for data-related topics.
+In my free time, I seek to deepen my knowledge of a data professional's tools and day-to-day life.
 
 
 **Interests:**
