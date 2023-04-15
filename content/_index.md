@@ -60,13 +60,26 @@ sections:
     content:
       title: Experience
       items:
+      - title: Financial Assistant
+        company: Solvay
+        company_url: https://www.solvay.com/en/
+        company_logo: null
+        location: Curitiba
+        date_start: "2023-03-15"
+        date_end: ''
+        description: "  Responsibilities include:\n\n  - A technical point of contact for data-related topics for the global Credit team; \n
+- Assistance in the segregation of company data, performing control, and executing the split process in a transversal way in the Credit team; \n
+- Develop and maintain dashboards with the help of the Looker Studio tool; \n
+- Search for new solutions and data-driven improvements through the six sigma methodology; \n
+- Monitoring processes and automation of the Credit team;\n
+- Extraction and manipulation of information in order to assist in the delivery and decision-making of the teams, using tools such as SAP, Looker Studio, and Google tools"
       - title: Data Analytics - Intern
         company: Solvay
         company_url: https://www.solvay.com/en/
         company_logo: null
         location: Curitiba
         date_start: "2021-12-15"
-        date_end: ''
+        date_end: "2023-03-04"
         description: "  Responsibilities include:\n\n  - Process automation and data
           extraction, assisting in the elaboration of analyzes and decision-making in
           the financial sector;\n  - Support in the maintenance of reports and dashboards
